@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heathhile
 - 👀 I’m interested in long walks in Azeroth cuz beaches are for newbs.
 - 🌱 I’m currently slowly going through The Odin Project. It's tough, but good.
-- 💞️ I’m looking to collaborate on things and stuff.
+- 💞️ I’m looking to collaborate on things and stuff, and up for learning new thingss.
 - 📫 How to reach me - email is probably best. torind2000@gmail.com
 
 <!---
