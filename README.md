@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heathhile
 - 👀 I’m interested in long walks in Azeroth cuz beaches are for newbs.
-- 🌱 I’m currently learning Powershell scripting and C# for work as I have transitioned into a DevOps role, go me!
+- 🌱 I’m currently slowly going through The Odin Project. It's tough, but good.
 - 💞️ I’m looking to collaborate on things and stuff.
 - 📫 How to reach me - email is probably best. torind2000@gmail.com
 
